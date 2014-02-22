@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/Users/juddernaught/Desktop/UXC/.metadata/.plugins/org.eclipse.jdt.core
+1917635177.index
+991981787.index
+2500966095.index
